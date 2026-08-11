@@ -1,0 +1,6 @@
+index.html
+│   ├── style.css
+│   └── app.js
+├── .env.example
+├── .gitignore
+└── README.md
