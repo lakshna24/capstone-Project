@@ -1,0 +1,9 @@
+main.py
+│   ├── database.py
+│   ├── models.py
+│   ├── schemas.py
+│   ├── crud.py
+│   ├── algorithms.py
+│   ├── ai_service.py
+│   ├── seed_data.py
+│   └── requirements.txt
